@@ -59,9 +59,9 @@ Check [Issues](https://github.com/Koshaljha/Octanet.github.io/issues) for contri
 
 # *Author*
 
-* Nitesh Verma (Nitesh Verma, niteshverma288@gmail.com@gmail.com)
+* Nitesh Verma (Nitesh Verma, niteshverma288@gmail.com)
   - [LinkedIn](https://www.linkedin.com/in/niteshboss)
 
-  * Koshal Jha (Koshal Jha, koshalj143@gmail.com)
+* Koshal Jha (Koshal Jha, koshalj143@gmail.com)
   - [LinkedIn](https://www.linkedin.com/in/koshal-jha-9abaa027b)
 
