@@ -7,9 +7,9 @@
 
 ![ToDoList](https://socialify.git.ci/tusharnankani/ToDoList/image?description=1&forks=1&issues=1&language=1&owner=1&pattern=Brick%20Wall&pulls=1&stargazers=1&theme=Dark)
 
-#### This web page is hosted [here!](https://tusharjustdoit.netlify.app/)
+#### This web page is hosted [here!](https://koshaljha.github.io/Octanet/)
 
-- View the local installation in the [CONTRUBUTING.md](https://github.com/tusharnankani/ToDoList/blob/master/CONTRIBUTING.md).
+
 
 ### *Features*:
 
@@ -21,7 +21,7 @@
 
 ### *Features to be added*:
 
-Check [Issues](https://github.com/tusharnankani/ToDoList/issues) for contributing to this repository.
+Check [Issues](https://github.com/Koshaljha/Octanet.github.io/issues) for contributing to this repository.
 
 * SubTasks: Adding subtasks to the enlisted tasks, could be an option.
 * Neumorphic Interface: For the to-do's so, it looks more appealing, Can use SASS (.scss file)
@@ -59,5 +59,5 @@ Check [Issues](https://github.com/tusharnankani/ToDoList/issues) for contributin
 
 # *Author*
 
-* Tushar Nankani (tusharnankani, tusharnankani3@gmail.com)
-  - [LinkedIn](https://www.linkedin.com/in/tusharnankani)
+* Tushar Nankani (tusharnankani, koshalj143@gmail.com)
+  - [LinkedIn](https://www.linkedin.com/in/koshal-jha-9abaa027b)
